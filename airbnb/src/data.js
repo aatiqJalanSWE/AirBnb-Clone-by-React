@@ -39,42 +39,6 @@ const data = [
     location: "Norway",
     openSpots: 3,
   },
-  //     {
-  //         id: 4,
-  //         title: "Group Mountain Biking",
-  //         price: 50,
-  //         coverImg: cardImage3,
-  //         stats: {
-  //             rating: 4.8,
-  //             reviewCount: 2
-  //         },
-  //         location: "Norway",
-  //         openSpots: 3,
-  //     },
-  //     {
-  //         id: 3,
-  //         title: "Group Mountain Biking",
-  //         price: 50,
-  //         coverImg: cardImage3,
-  //         stats: {
-  //             rating: 4.8,
-  //             reviewCount: 2
-  //         },
-  //         location: "Norway",
-  //         openSpots: 3,
-  //     },
-  //     {
-  //         id: 3,
-  //         title: "Group Mountain Biking",
-  //         price: 50,
-  //         coverImg: cardImage3,
-  //         stats: {
-  //             rating: 4.8,
-  //             reviewCount: 2
-  //         },
-  //         location: "Norway",
-  //         openSpots: 3,
-  //     },
 ];
 
 export default data;
